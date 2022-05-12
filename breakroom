@@ -1,5 +1,5 @@
 {
-  "settingsReloadIntervalMinutes": 0.1,
+  "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
@@ -28,7 +28,7 @@
     {
       "url": "https://www.youtube.com/watch?v=ZAhqjqA4G_o&list=PLn3nHXu50t5wuHX2myLSY5cBdu_v0qNAl",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 86400
     }
   ]
 }
