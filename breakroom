@@ -7,23 +7,23 @@
   "websites": [
     {
       "url": "https://www.powerbi.com/groups/c7054267-ab35-4622-8571-9e01d937738f/reports/30d2d080-2760-49ce-9c00-b511b13af1f6/ReportSection?chromeless=1",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 15,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://www.powerbi.com/groups/c7054267-ab35-4622-8571-9e01d937738f/reports/30d2d080-2760-49ce-9c00-b511b13af1f6/ReportSection861f3b7b934bd5288419?chromeless=1",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 15,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "http://opd1.dow.com/OPD/(S(z4xcuwvhgunw5y0xu445xpa3))/LogBookRecord/LogBookRecord?Advance=No&viewid=2977&viewname=SAC%20Turnovers",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 15,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://workspaces.bsnconnect.com/:p:/r/sites/Hayward/Training/_layouts/16/Doc.aspx?sourcedoc=%7B2797BC09-4400-4826-874A-FCF1FEBB9756%7D&file=Avanse%20413%20%233%20Post%20Add%20Agitator%20LER.pptx&action=embedview",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 15,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://www.youtube.com/watch?v=ZAhqjqA4G_o&list=PLn3nHXu50t5wuHX2myLSY5cBdu_v0qNAl",
