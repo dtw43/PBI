@@ -16,12 +16,12 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "http://www.dow.com/",
+      "url": "http://opd1.dow.com/OPD/(S(z4xcuwvhgunw5y0xu445xpa3))/LogBookRecord/LogBookRecord?Advance=No&viewid=2977&viewname=SAC%20Turnovers",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "http://www.cnn.com/",
+      "url": "file://hayfs02/hayward/Data/Facilities_Operations/Scheduler/MIMI/RPT/BS1.TXT",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
     }
