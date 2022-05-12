@@ -21,7 +21,12 @@
       "tabReloadIntervalSeconds": 300
     },
     {
-      "url": "https://workspaces.bsnconnect.com/:p:/r/sites/Hayward/Training/_layouts/16/Doc.aspx?sourcedoc=%7B2797BC09-4400-4826-874A-FCF1FEBB9756%7D&file=Avanse%20413%20%233%20Post%20Add%20Agitator%20LER.pptx&action=embedview",
+      "url": "http://opd1.dow.com/OPD/(S(qcorywydwvtndwopdzmg5kbk))/LogBookRecord/LogBookRecord?Advance=No&viewid=2977&viewname=SAC%20Turnovers",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://workspaces.bsnconnect.com/:p:/r/sites/Hayward/People/_layouts/16/Doc.aspx?sourcedoc=%7B9CBD7D7B-48F7-4EC5-B878-7CB0838E3BF6%7D&file=News%20-%20People.pptx&action=embedview",
       "duration": 15,
       "tabReloadIntervalSeconds": 300
     },
