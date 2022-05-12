@@ -19,6 +19,10 @@
       "url": "http://www.dow.com/",
       "duration": 8,
       "tabReloadIntervalSeconds": 15
-    }
+    },
+    {
+      "url": "http://www.baysidemaine.com/",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
   ]
 }
