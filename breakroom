@@ -16,6 +16,10 @@
       "tabReloadIntervalSeconds": 300
     },
     {
+      "url": "https://www.youtube.com/watch?v=s4HAIsPTqp4&list=PLL-lmlkrmJanUePyXyLusrJGzyGRg-Qj3",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 300
+    },    {
       "url": "https://workspaces.bsnconnect.com/:p:/r/sites/Hayward/Training/_layouts/16/Doc.aspx?sourcedoc=%7B2797BC09-4400-4826-874A-FCF1FEBB9756%7D&file=Avanse%20413%20%233%20Post%20Add%20Agitator%20LER.pptx&action=embedview",
       "duration": 15,
       "tabReloadIntervalSeconds": 300
